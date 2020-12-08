@@ -1,4 +1,4 @@
-# taller2-app
+# vue-js-client-crud
 
 ## Project setup
 ```
